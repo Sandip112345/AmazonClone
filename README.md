@@ -57,24 +57,6 @@ AmazonClone/
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No server installation required
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/AmazonClone.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd AmazonClone
-```
-
-3. Open in your browser:
-```bash
-# Simply open index.html in your browser or use a local server
-# Option 1: Direct open
-open index.html
-
 
 ## Usage
 
@@ -133,17 +115,11 @@ open index.html
 - Safari (latest)
 - Edge (latest)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
-
-Created as an e-commerce learning project.
 
 ---
 
